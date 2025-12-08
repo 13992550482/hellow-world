@@ -509,4 +509,6 @@ def main():
 
 if __name__ == "__main__":
     result = main()
-    print("Analysis complete!")
+
+    print("Analysis complete!") 
+井壁稳定模拟
